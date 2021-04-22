@@ -1,2 +1,3 @@
 # CS50x
-Harvard / EDx CS50 Course
+
+Walkthrough Harvard / EDx CS50 Introduction to Computer Science Course
